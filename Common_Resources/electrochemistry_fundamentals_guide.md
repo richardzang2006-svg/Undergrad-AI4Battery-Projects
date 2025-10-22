@@ -31,10 +31,10 @@ $$
 
 ### 1.1.2 相对电极电势与参比电极
 
-<!-- ![参比电极结构示意图](./figures/1.1.reference_electrode.jpg)
-
-*图 1.1：参比电极结构示意图
--->
+<p align="center">
+  <img src="./figures/1.1.reference_electrode.jpg" width="300" /><br>
+  <em>图 1.1：参比电极结构示意图</em>
+</p>
 
 由于无法直接测量单个电极的**绝对电势**，实验中采用**相对电极电势**，即相对于某一标准参比电极的电位差。
 
@@ -74,11 +74,11 @@ $$
 
 电极与电解质接触时，由于电荷转移或吸附，界面处会形成 **双电层（Electrical Double Layer, EDL）**，其结构直接影响电极过程动力学。
 
-<!--
-![双电层结构示意图](./figures/1.2.edl.jpg) 
+<p align="center">
+  <img src="./figures/1.2.edl.jpg" width="400" /><br>
+  <em>图 1.2：双电层结构示意图</em>
+</p>
 
-*图 1.2：双电层结构示意图
--->
 ### 1.2.1 双电层模型发展
 
 - **Helmholtz 模型**（刚性平板）：认为电荷在界面两侧呈紧密排列，类似平行板电容器。
@@ -110,11 +110,11 @@ $$
 
 ## 1.3 电极过程动力学基础
 
-<!--
-![电极过程动力学示意图](./figures/1.3.electrode_kinetics_steps.jpg) 
+<p align="center">
+  <img src="./figures/1.3.electrode_kinetics_steps.jpg" width="400" /><br>
+  <em>图 1.3：电极/电解质界面示意图</em>
+</p>
 
-*图 1.3：电极/电解质界面示意图
--->
 实际电极过程往往偏离热力学平衡，需用动力学描述。典型电极反应包含多个步骤：
 
 1. **传质**（扩散、迁移、对流）  
