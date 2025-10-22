@@ -27,7 +27,7 @@
 > 不同尺度方法可**嵌套耦合**（如 DFT → 力场参数化 → MD → 相场）
 
 <p align="center">
-  <img src="./figures/multiscale_framework.jpg" width="500" /><br>
+  <img src="./figures/3.1.multiscale_framework.jpg" width="500" /><br>
   <em>图 3.1：计算材料学多尺度模拟体系示意图</em>
 </p>
 
@@ -100,7 +100,7 @@ ReaxFF 是一种**键级依赖的反应力场**，可动态描述化学键的生
 > - 硅负极体积膨胀（EAM-MD）
 
 <p align="center">
-  <img src="./figures/reaxff_sei_formation.png" width="400" /><br>
+  <img src="./figures/3.2.reaxff_sei_formation.jpg" width="400" /><br>
   <em>图 3.2：ReaxFF-MD 模拟电解液锂金属表面死锂和SEI形成过程</em>
 </p>
 
@@ -135,7 +135,7 @@ $$
 > - 可用于纳秒级、百万原子模拟
 
 <p align="center">
-  <img src="./figures/mlps_sei_formation.png" width="400" /><br>
+  <img src="./figures/3.3.mlps_sei_formation.jpg" width="400" /><br>
   <em>图 3.3：MLPs 模拟固态电池SEI形成过程</em>
 </p>
 
