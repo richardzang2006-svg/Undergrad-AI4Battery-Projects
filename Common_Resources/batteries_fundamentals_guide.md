@@ -68,7 +68,7 @@ $$
 - 容量由**活性物质较少的一极**决定（通常为负极）
 
 <p align="center">
-  <img src="./figures/2.1.li-ion_working_principle.jpg" width="600" /><br>
+  <img src="./figures/2.1.li-ion_working_principle.jpg" width="400" /><br>
   <em>图 2.1：锂离子电池“摇椅式”工作原理示意图</em>
 </p>
 
@@ -119,7 +119,7 @@ $$
 > ⚠️ **重要性**：SEI 是决定电池**首次库仑效率、循环寿命、安全性**的关键界面，尤其是在新型高比能负极（硅、锂金属）。
 
 <p align="center">
-  <img src="./figures/2.2.SEI_structure.jpg" width="550" /><br>
+  <img src="./figures/2.2.SEI_structure.jpg" width="400" /><br>
   <em>图 2.2：SEI 膜的典型多层结构示意图</em>
 </p>
 
@@ -194,8 +194,8 @@ $$
 > - 原位固化策略
 
 <p align="center">
-  <img src="./figures/2.3.solid_state_battery.jpg" width="600" /><br>
-  <em>图 2.3：固态电池挑战示意图</em>
+  <img src="./figures/2.3.solid_state_battery.jpg" width="800" /><br>
+  <em>图 2.3：固态电池挑战示意图（欧阳明高院士报告）</em>
 </p>
 
 ---
